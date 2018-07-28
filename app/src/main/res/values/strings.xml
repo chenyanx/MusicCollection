@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="Music_Pause">Pause</string>
+    <string name="Music_Trailer">trailer</string>
+    <string name="Intent_pass_key">Position</string>
+    <string name="SongName">SongName:</string>
+    <string name="Artist">Artist:</string>
+    <string name="Release_Date">Release Date:</string>
+    <string name="Region">Region:</string>
+    <string name="Price">Price:</string>
+    <string name="Collection_Price">Collection Price:</string>
+    <string name="Generic">Generic:</string>
+    <string name="Collection">Collection:</string>
+    <string name="TrackTime">TrackTime:</string>
+    <string name="Default_collection">The Essential Michael Jackson</string>
+    <string name="FileName">MusicApp</string>
+</resources>
